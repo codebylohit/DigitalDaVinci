@@ -12,7 +12,7 @@ DigitalDaVinci is a web-based platform for showcasing digital artists and their 
 ## Project Structure
 
 ```
-artists.html           # Main artists listing page
+artists.html            # Main artists listing page
 collections.html        # NFT collections overview
 index.html              # Landing page
 main.js                 # JavaScript for interactivity
